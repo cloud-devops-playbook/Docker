@@ -29,7 +29,7 @@ Before we can run the application, we need to get the application source code on
 1. Clone the repo --> getting-started using the following command:
     
     ```bash
-      git clone https://github.com/amigo-nishant/getting-started.git
+      git clone https://github.com/cloud-devops-playbook/getting-started.git
     ```
     
 2. View the contents of the cloned repository. We should see the following files and sub-directories.
@@ -42,10 +42,6 @@ Before we can run the application, we need to get the application source code on
     │ ├── src/
     │ └── package-lock.json
     ```
-### NOTE:
-- Before we Dockerize the app let's run this app locally
-- In real time we can connect with Developers or check the app README.md file for the instructions written by developers to deploy locally.
-- Here's the README.md file for the NodeJS App written by Developer - https://github.com/amigo-nishant/getting-started.git 
 
 **Build the app’s image**
 
